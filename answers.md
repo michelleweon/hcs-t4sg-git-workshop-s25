@@ -11,5 +11,5 @@ git log
 4. What command lists all the branches in your local repository? Which one lists those in the remote?
 git branch
 
-5. To prevent specific files and folders from being commited to a repository, what should you do?
+5. To prevent specific files and folders from being commited to a repository, what should you do? # hello 
 git add <file path name> instead of git add .
